@@ -1,6 +1,4 @@
-# Random
-apt update
-git pull 
-https://github.com/Jakareya420/Random.git
-cd random
-python Randomup1.py
+$ git clone https://github.com/Jakareya420/random_clone.git
+$ cd random_clone
+$ ls
+$ python Jakareya.py
